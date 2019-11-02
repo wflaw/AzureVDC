@@ -393,7 +393,7 @@
                     "createOption": "Import",
                     "sourceUri": "[variables('pfSenseSourceUri')]"
                 },
-                "diskSizeGB": 30
+                "diskSizeGB": 32
             }
         }
     ]
